@@ -3,7 +3,7 @@
 <img align="right" alt ="Coding" width="400" src="https://muzammilbilwani.com/images/focus.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandeesh-nh&label=Profile%20views&color=0e75b6&style=flat" alt="nandeesh-nh" /> </p>
 
-- 📫 How to reach me **nhbrothers@gmail.com**
+- 📫 How to reach me **nhbrothers123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
